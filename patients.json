@@ -48,5 +48,15 @@
     "weight": 75,
     "bmi": 31.22,
     "verdict": "Obese"
+  },
+  "P006": {
+    "name": "Ankit",
+    "city": "Dehradun",
+    "age": 10,
+    "gender": "male",
+    "height": 18.0,
+    "weight": 70.0,
+    "bmi": 0.22,
+    "verdict": "Underweight"
   }
 }
