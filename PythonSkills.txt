@@ -2,3 +2,5 @@ Python , Python OOPs , Python Libraries - NumPy , pandas, matplotlib, seaborn
 
 Python framework FastApi 
 
+ML
+NLP
